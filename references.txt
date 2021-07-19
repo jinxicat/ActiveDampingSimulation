@@ -1,0 +1,9 @@
+References
+[1] Nrsyed. “Nrsyed/Half-Car.” GitHub, 11 Aug. 2019, https://github.com/nrsyed/half-car.
+[1] Syed, Najam. “Numerical Approach to Studying Vehicle Dynamics with a Half-Car Suspension
+Model.” Najam R Syed, 11 May 2019, https://nrsyed.com/2018/01/07/numerical-approach-to-
+studying-vehicle-dynamics-with-a-half-car-suspension-model/.
+[2] “Active Damping.” Active Damping,
+https://deltamotion.com/support/webhelp/rmctools/Controller_Features/Control_Modes/Advanced
+_Control/Active_Damping.htm.
+[3] “How Adaptive Suspension Works (In Depth). ”https://www.youtube.com/watch?v=weLfP22sq7g
